@@ -1,2 +1,2 @@
-egor_apps
+Applications for protos
 =========
